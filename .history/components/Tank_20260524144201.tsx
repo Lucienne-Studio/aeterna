@@ -668,7 +668,7 @@ const Tank = () => {
           "
         >
           <Image
-            src="/imgs/6.png"
+            src="/imgs/5.png"
             alt=""
             width={1000}
             height={1200}
